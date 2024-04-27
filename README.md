@@ -5,13 +5,14 @@
 
 <img align="right" width=350px height="220px" alt="coding" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samarthshukla6&label=Profile%20views&color=0e75b6&style=flat" alt="samarthshukla6" /> </p>
 
 - 🌱 I’m currently learning **React JS**
 
 - 📫 How to reach me: **https://www.linkedin.com/in/samarth-shukla-0191a2271/**
 
 - ⚡ Fun fact: **Why do programmers like me prefer dark mode? Because light attracts bugs!🐞**
+
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=samarthshukla6&label=Profile%20views&color=0e75b6&style=flat" alt="samarthshukla6" /> </p>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
