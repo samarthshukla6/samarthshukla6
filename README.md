@@ -23,9 +23,25 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,github,html,css,javascript,mysql,bootstrap&perline=5)](https://skillicons.dev)
 
-![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=samarthshukla6&show_icons=true&theme=dark)
+![Samarth's GitHub stats](https://github-readme-stats.vercel.app/api?username=samarthshukla6&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samarthshukla6&theme=dark)
+
+<p align="left"></p>
+
+###
+
+<h2 align="left">Here's my contribution snake game from last year :</h2>
+
+###
+
+<img src="https://raw.githubusercontent.com/SatvikGit/Ssamarthshukla6/output/snake.svg" alt="Snake animation" />
+
+###
+
+<p align="left"></p>
+
+###
 
 
 <h3 align="left">Reach out at:</h3>
