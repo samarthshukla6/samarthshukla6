@@ -33,11 +33,10 @@
 
 <h2 align="left">Here's my contribution snake game from last year :</h2>
 
-###
 
-<img src="https://raw.githubusercontent.com/SatvikGit/Ssamarthshukla6/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/samarthshukla6/samarthshukla6/blob/output/github-contribution-grid-snake.gif)
 
-###
+
 
 <p align="left"></p>
 
