@@ -28,8 +28,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samarthshukla6&theme=dark)
 
 <p align="left"></p>
-/*
-###
+
 
 <h2 align="left">Here's my contribution snake game from last year :</h2>
 
@@ -40,8 +39,6 @@
 
 <p align="left"></p>
 
-###
-*/
 
 <h3 align="left">Reach out at:</h3>
 <p align="center">
