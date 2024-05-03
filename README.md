@@ -1,47 +1,70 @@
- <h1 align="center">Hi 👋, I'm Samarth Shukla</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=samarthshukla6.samarthshukla6" />
 
-- 🔭 I’m currently working on Vanilla
-- 🌱 I’m currently learning ReactJS 
-- 📫 How to reach me: samarthshukla150604@gmail.com
-- ⚡ Fun fact: Why do programmers like me prefer dark mode? Because light attracts bugs!🐞
- <img align="right" width=350px height="300px" alt="coding" src="https://media3.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif?cid=6c09b9523weud061m4jrmacc11hysn81ehzq0bx8x1c1kzho&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
-  
-### Connect with me:
-<div id="badges">
-  <a href="https://github.com/samarthshukla6">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Samarth+Shukla!;" />
+</h1>
+
+<h3 align="center">A passionate software developer from Indore, India</h3>
+
+<br/>
+
+<div align="center">
+ 
+🔭 I’m currently working on Vanilla
+
+🌱 I’m currently learning ReactJS 
+
+📫 How to reach me: samarthshukla150604@gmail.com
+
+⚡ Fun fact: Why do programmers like me prefer dark mode? Because light attracts bugs!🐞
+
+ </div>
+ 
+<div align="center"> 
+  <a href="samarthshukla150604@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.youtube.com/channel/UCJoy8B4NMdMilQ4R29wA1Qg">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://linkedin.com/in/samarth-shukla-0191a2271" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-   <a href="https://www.instagram.com/samarth.shukla6/">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  <a href=" " target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-  
 </div>
 
-### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,github,html,css,javascript,mysql,bootstrap&perline=5)](https://skillicons.dev)
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,tailwind,bootstrap" /> <br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,mysql" /><br>
+</div>
 
-![Samarth's GitHub stats](https://github-readme-stats.vercel.app/api?username=samarthshukla6&show_icons=true&theme=dark)
+<br/>
+<hr/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samarthshukla6&theme=dark)
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-<p align="left"></p>
+<hr/>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-<h2 align="left">Here's my contribution snake game from last year :</h2>
+<br/><br/>
 
+<hr/>
 
-![snake gif](https://github.com/samarthshukla6/samarthshukla6/blob/output/github-contribution-grid-snake.gif)
-
-
-
-<p align="left"></p>
-
-
-<h3 align="left">Reach out at:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/samarth-shukla-0191a2271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samarth-shukla-0191a2271" height="30" width="40" /></a>
-<a href="https://instagram.com/samart.shukla6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samart.shukla6" height="30" width="40" /></a>
-</p>
+<br/>
