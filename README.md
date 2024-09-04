@@ -10,9 +10,9 @@
 
 <div align="center">
  
-🔭 I’m currently working on Vanilla
+🔭 I’m currently working on React and Next.js
 
-🌱 I’m currently learning ReactJS 
+🌱 I’m currently exploring AI 
 
 📫 How to reach me: samarthshukla150604@gmail.com
 
