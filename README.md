@@ -89,7 +89,7 @@ Awarded full merit-based scholarship by the Government of India
 ## 🧑‍💼 Experience
 
 ### AI Developer Intern  
-**SOLO**  
+**SOLO** *(August 2024 - October 2024 | Moutain View, California, USA)*  
 - Developed and fine-tuned on-device AI models using Auto Fine Tuning, improving model accuracy and reducing training time by 30%.  
 - Enhanced the user interface of the app by optimizing and improving pre-existing functions, leading to a more intuitive and responsive user experience.  
 - Contributed to the development of the frontend using modern web technologies, focusing on user experience improvements and functionality enhancements.  
