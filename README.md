@@ -69,11 +69,6 @@
 <hr>
 <div align=left>
     
-Here's the updated full README file with your requested changes:
-
----
-
-
 ## 🏫 Education
 
 **Bachelor of Technology in Computer Science**  
@@ -127,10 +122,11 @@ Awarded full merit-based scholarship by the Government of India
 
 ## 🏆 Achievements
 
-- **Kriyeta 3.0 Hackathon Winner**  
+- **Bit-n-Build International hackathon Winner**  
+- **Bit-n-Build National hackathon Winner** 
 - **SKITM Innothon Winner**  
-  - Runner-up position among 450 teams in a 48-hour national-level hackathon.  
-  - Led the team in developing an innovative MERN stack project, integrating real-time functionalities and advanced features.  
-  - Presented the project, earning commendation from industry experts for creativity and technical expertise.
+- **Kriyeta 3.0 Hackathon Winner**  
+- **Code-fest National Web Design Hackathon Winner**  
+ 
 
 </div>
