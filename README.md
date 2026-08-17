@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero-banner.svg" width="100%"/>
+<img src="./assets/hero-banner.jpg" width="100%"/>
 
 </div>
 
@@ -29,6 +29,6 @@ Research → production, at **[Solo Tech](https://getsolo.tech/)** · open-sourc
 
 <div align="center">
 
-<img src="./assets/photo-strip.svg" width="100%"/>
+<img src="./assets/photo-strip.jpg" width="100%"/>
 
 </div>
