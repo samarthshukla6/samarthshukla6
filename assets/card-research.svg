@@ -1,9 +1,0 @@
-<svg width="380" height="210" viewBox="0 0 380 210" xmlns="http://www.w3.org/2000/svg">
-  <rect width="380" height="210" rx="22" fill="#F2EADE"/>
-  <rect x="0" y="0" width="8" height="210" rx="4" fill="#8A2630"/>
-  <text x="32" y="48" font-family="ui-sans-serif, system-ui, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="3" fill="#8A2630">RESEARCH</text>
-  <text x="32" y="96" font-family="ui-sans-serif, system-ui, Helvetica, Arial, sans-serif" font-size="26" font-weight="800" fill="#1A1612">IEEE &amp; TechRxiv</text>
-  <text x="32" y="138" font-family="ui-sans-serif, system-ui, Helvetica, Arial, sans-serif" font-size="15" fill="#5C524A">Money Laundering Detection</text>
-  <text x="32" y="164" font-family="ui-sans-serif, system-ui, Helvetica, Arial, sans-serif" font-size="15" fill="#5C524A">HealthX(AI)</text>
-  <rect x="32" y="184" width="44" height="4" rx="2" fill="#C48E48"/>
-</svg>
