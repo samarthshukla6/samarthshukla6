@@ -39,7 +39,7 @@
 
 <p>9 national · 1 international<br/>2,000+ participants</p>
 
-<p><em>IEEE</em></p>
+<p><em>IEEE Researcher</em></p>
 
 <p>
   <a href="https://doi.org/10.1109/ACROSET66531.2025.11280778"><img src="https://img.shields.io/badge/IEEE-Money_Laundering_Detection-1B2A4A?style=for-the-badge&logoColor=F2EADE" alt="Money Laundering Detection — IEEE"/></a>
