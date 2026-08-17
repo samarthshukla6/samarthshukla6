@@ -6,33 +6,46 @@
 
 <table>
 <tr>
-<td width="54%" valign="top">
+<td width="56%" valign="top">
 
-**Carnegie Mellon · School of Computer Science**
+<h3>Carnegie Mellon University</h3>
 
-Founding AI/ML engineer at **[Solo Tech](https://getsolo.tech/)**. I take research off the page and into production — models, systems, and robots that actually ship.
+<p><em>School of Computer Science</em></p>
 
-Open source: **[Solo CLI](https://github.com/GetSoloTech/solo-cli)**
+<p>
+  <strong>Founding AI/ML Engineer</strong> @ <a href="https://getsolo.tech/">Solo Tech</a>
+</p>
 
-<br/>
+<p>
+  Physical AI from research → production — VLA training (ACT, SmolVLA, π0, Groot), robot SDKs for SO-101 / Agibot, and on-device SLM / VLM inference.
+  <a href="https://getsolo.tech/">Solo Tech</a> · <a href="https://github.com/GetSoloTech/solo-cli">Solo CLI</a>
+</p>
 
-`AI Infrastructure` `Full-Stack` `LLM / VLM` `Edge AI`  
-`Physical AI` `Robotics` `Dev Tooling`
+<p>
+  <code>PyTorch</code>&nbsp;<code>Hugging Face</code>&nbsp;<code>TensorRT</code>&nbsp;<code>ONNX</code>&nbsp;<code>MuJoCo</code>&nbsp;<code>WebGPU</code>
+  <br/>
+  <code>FastAPI</code>&nbsp;<code>TypeScript</code>&nbsp;<code>React</code>&nbsp;<code>Python</code>&nbsp;<code>Docker</code>&nbsp;<code>GCP</code>
+</p>
+
+<p>
+  <sub>AI Infrastructure · Full-Stack Systems · LLM / VLM Applications · Edge AI · Physical AI · Robotics · Developer Tooling</sub>
+</p>
 
 </td>
-<td width="6%"></td>
+<td width="4%"></td>
 <td width="40%" valign="top">
 
-**Record**  
-10× hackathon winner  
-9 national · 1 international  
-2,000+ in the field
+<h3>10× Hackathon Winner</h3>
 
-<br/>
+<p>9 national · 1 international<br/>2,000+ participants</p>
 
-**Research**  
-<a href="https://doi.org/10.1109/ACROSET66531.2025.11280778"><img src="https://img.shields.io/badge/IEEE-Money_Laundering_Detection-1B2A4A?style=for-the-badge&logoColor=F2EADE" alt="Money Laundering Detection — IEEE"/></a>  
-<a href="https://ieeexplore.ieee.org/document/11547936"><img src="https://img.shields.io/badge/IEEE-HealthX(AI)-1B2A4A?style=for-the-badge&logoColor=F2EADE" alt="HealthX(AI) — IEEE"/></a>
+<p><em>IEEE</em></p>
+
+<p>
+  <a href="https://doi.org/10.1109/ACROSET66531.2025.11280778"><img src="https://img.shields.io/badge/IEEE-Money_Laundering_Detection-1B2A4A?style=for-the-badge&logoColor=F2EADE" alt="Money Laundering Detection — IEEE"/></a>
+  <br/>
+  <a href="https://ieeexplore.ieee.org/document/11547936"><img src="https://img.shields.io/badge/IEEE-HealthX(AI)-1B2A4A?style=for-the-badge&logoColor=F2EADE" alt="HealthX(AI) — IEEE"/></a>
+</p>
 
 </td>
 </tr>
