@@ -12,12 +12,9 @@
 
 <p><em>School of Computer Science</em></p>
 
-<p>
-  <strong>Founding AI/ML Engineer</strong> @ <a href="https://getsolo.tech/">Solo Tech</a>
-</p>
 
 <p>
-  Physical AI from research → production — VLA training (ACT, SmolVLA, π0, Groot), robot SDKs for SO-101 / Agibot, and on-device SLM / VLM inference.
+   AI from research → production — VLA training (ACT, SmolVLA, π0, Groot), robot SDKs for SO-101 / Agibot, and on-device SLM / VLM inference.
   <a href="https://getsolo.tech/">Solo Tech</a> · <a href="https://github.com/GetSoloTech/solo-cli">Solo CLI</a>
 </p>
 
