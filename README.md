@@ -15,6 +15,7 @@
 
 <p>
    AI from research → production — VLA training (ACT, SmolVLA, π0, Groot), robot SDKs for SO-101 / Agibot, and on-device SLM / VLM inference.
+  <br>
   One of my popular open source work <a href="https://github.com/GetSoloTech/solo-cli">Solo CLI</a>
 </p>
 
